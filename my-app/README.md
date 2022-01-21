@@ -1,3 +1,20 @@
+
+My Weather App
+
+This project is a small programming assignment in which I have created web page where the user can select a city from a drop down and it will show them the temperature for the next 7 days.
+
+Techonologies:
+Front end - React.js
+Back end - ASP.NET WebAPI
+
+Plans:
+-UI update for better looking dropdown menu
+-dynamic backgrounds based on temperature
+-forecast for week (rain, sun, clouds, snow, etc.)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
